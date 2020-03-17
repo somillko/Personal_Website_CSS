@@ -1,0 +1,97 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Fira Sans', sans-serif;
+}
+h1{
+  font-size: 50px;
+  font-family: 'Courgette', cursive;
+  margin-bottom: 10px;
+  color: #384259;
+  font-weight: normal;
+  line-height: 200%;
+}
+h2{
+  line-height: 200%;
+  color: #66BFBF;
+  font-family: 'Merriweather', serif;
+}
+h3{
+  color:#0074e4;
+  font-family: 'Merriweather', serif;
+  font-weight: normal;
+}
+h4{
+  color:sienna;
+}
+div{
+  padding-top: 20px;
+  margin: 0;
+  position: relative;
+}
+p{
+  line-height: 2;
+  margin-top: 0;
+}
+hr{
+  border-style: dotted none none;
+  border-width: medium;
+  border-color: maroon;
+  border-spacing: 10px;
+  width: 20%;
+  height: 0;
+}
+.end{
+  color: white;
+  margin-bottom: 0;
+}
+.table1{
+  margin: auto;
+}
+.profile{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  color: #40514E;
+}
+.heading{
+  background-color: #ccedd2;
+}
+.bottom-container{
+  background-color: #66BFBF;
+}
+.skill{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+.hobby{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.datascience{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.programming{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.algorithms{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.heavymetal{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.Reading{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
